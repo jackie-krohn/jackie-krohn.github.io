@@ -1,10 +1,19 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
 - title: Getting Started
   url: "/getting-started/"
   side: left
+
+- title: Projects
+  url: "/design/"
+  side: left
+  dropdown:
+  - title: "Project 1"
+    url: "/design/grid/"
+  - title: "Typography"
+    url: "/design/typography/typography/"
 
 - title: "Templates"
   url: "/design/"
