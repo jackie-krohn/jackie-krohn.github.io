@@ -14,6 +14,8 @@
     url: "/design/grid/"
   - title: "Typography"
     url: "/design/typography/typography/"
+  - title: "NBA Dashboard - Tableau"
+    url: "/design/page-fullwidth-nba-dashboard/"
 
 - title: "Templates"
   url: "/design/"
