@@ -1,12 +1,12 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: https://github.com/jackie-krohn
   class: icon-github
   title: Code und mehr...
 
 - name: YouTube
   url: http://www.youtube.com/PhlowMedia
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "Videos, Youtube content by Jackie"
 
 - name: Twitter
   url: http://twitter.com/phlow
@@ -28,10 +28,10 @@
 #   class: icon-soundcloud
 #   title: ""
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
+- name: Instagram
+  url: https://www.instagram.com/jackie_krohn/
+  class: icon-instagram
+  title: ""
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
