@@ -1,5 +1,5 @@
 #
-# Sera - OnePage Jekyll Theme
+# Jackie - OnePage Jekyll Theme
 # Configuration File
 #
 
@@ -134,8 +134,8 @@ mailchimp:
 #####################################
 #############   About   #############
 #####################################
-about-title: Welcome to Sera
-about-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl.
+about-title: Welcome to Jackie's Portfolio
+about-description: My name is Jacqueline(Jackie) Krohn. Write a page summary.
 
 #####################################
 #############  Features  ############
