@@ -340,8 +340,8 @@ team-description: Nulla a tellus at turpis gravida congue non interdum et malesu
 #
 team:
   # Team Member
-  - name: Jack Skilton
-    tagline: Graphic Designer
+  - name: Jacqueline Krohn
+    tagline: Business Analyst,  Mechanical Engineer
     avatar: avatar-me.jpg
 
     # Social Links
@@ -392,12 +392,12 @@ team:
 ############   Contact   ############
 #####################################
 contact-title: Contact Us
-contact-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
+contact-description: Send me an email to chat!
 
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
+footer-description: Personal website for Jacqueline Krohn.
 footer-copyright-text: Krohn
 footer-copyright-url: https://github.com/jackie-krohn
 footer-copyright-year: 2021
