@@ -47,7 +47,7 @@ title: Jacqueline Krohn
 # Website language
 lang: en-US
 # Header Title
-header-title: Jacqueline Krohn
+header-title: J<span class="thin">acqueline</span> K<span class="thin">rohn</span>
 # Header Tagline
 headter-tagline: Data. Engineering. <strong>Exploration.</strong>
 
@@ -148,17 +148,17 @@ features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. A
 #
 features:
   # Feature
-  - title: Clean & Unique Design
+  - title: Work
     description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
     icon: pe-7s-vector
 
   # Feature
-  - title: Professional Support
+  - title: Passions
     description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
     icon: pe-7s-help2
 
   # Feature
-  - title: Pixel Perfect
+  - title: Everything Else
     description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
     icon: pe-7s-airplay
 
@@ -166,7 +166,7 @@ features:
 ############  Portfolio  ############
 #####################################
 portfolio-title: Portfolio
-portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis.
+portfolio-description: Check out some of the different projects I"'"ve worked on or passions of mine. Use the filter below to find what you"'"re interested in seeing faster.
 
 #
 # Portfolio Grid
