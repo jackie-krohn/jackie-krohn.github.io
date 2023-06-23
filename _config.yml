@@ -85,6 +85,7 @@ facebook: "#"
 twitter: "#"
 google-plus: "#"
 vimeo: "#"
+linkedin: https://www.linkedin.com/in/jacqueline-krohn/
 
 #########################
 ######   Widgets   ######
@@ -339,7 +340,7 @@ team:
   # Team Member
   - name: Jack Skilton
     tagline: Graphic Designer
-    avatar: avatar-01.jpg
+    avatar: avatar-me.jpg
 
     # Social Links
     youtube: "#"
