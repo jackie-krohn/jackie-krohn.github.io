@@ -1,14 +1,28 @@
-# Creative Theme for Jekyll
+# Sera - Jekyll Theme
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
+## System Preparation
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+To use this project, you'll need the following things installed on your machine.
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
+1. [Jekyll](http://jekyllrb.com/docs/) - `$ gem install jekyll bundler`
+2. [Jekyll-Gems](http://jekyllrb.com/docs/) - `$ bundle install`
 
-## To use the Creative Theme template in your project
+## Usage
 
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
+Since this is a Jekyll theme, every command described in the [Jekyll documentation](https://jekyllrb.com/docs/) is avaialable.
 
+### Development
+
+To start the development workflow, run:
+
+```
+bundle exec jekyll serve --livereload
+```
+
+### Production
+
+To build the project, run:
+
+```
+bundle exec jekyll build
+```
