@@ -11,10 +11,10 @@ sass:
   sass_dir: _scss
 
 # Information for deploy
-baseurl: ""
+baseurl: "https://jackie-krohn.github.io"
 
 # the base hostname & protocol for your site
-url: "http://localhost:4000"
+url: "https://jackie-krohn.github.io"
 
 ####################################
 ######   Optional Features    ######
@@ -49,7 +49,7 @@ lang: en-US
 # Header Title
 header-title: Jacqueline Krohn
 # Header Tagline
-headter-tagline: Data. Engineering. <strong>Innovation.</strong>
+headter-tagline: Data. Engineering. <strong>Exploration.</strong>
 
 ####################################
 ######   CTA Header Buttons   ######
@@ -173,7 +173,7 @@ portfolio-categories:
 portfolio:
   # Portfolio Item
   - title: NBA Team Dashboard
-    categories: [Vizualization]
+    categories: [Visualization]
     image: img-01.jpg
     url: "#"
 
