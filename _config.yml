@@ -338,19 +338,19 @@ team-description: Nulla a tellus at turpis gravida congue non interdum et malesu
 #
 # Team Members
 #
-team:
-  # Team Member
-  - name: Jacqueline Krohn
-    tagline: Business Analyst,  Mechanical Engineer
-    avatar: avatar-me.jpg
-
-    # Social Links
-    youtube: "#"
-    pinterest: "#"
-    facebook: "#"
-    twitter: "#"
-    google-plus: "#"
-    vimeo: "#"
+# team:
+#   # Team Member
+#   - name: Jacqueline Krohn
+#     tagline: Business Analyst,  Mechanical Engineer
+#     avatar: avatar-me.jpg
+# 
+#     # Social Links
+#     youtube: "#"
+#     pinterest: "#"
+#     facebook: "#"
+#     twitter: "#"
+#     google-plus: "#"
+#     vimeo: "#"
 
 # #####################################
 # ########## Pricing Tables ###########
