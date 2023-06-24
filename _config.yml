@@ -100,7 +100,7 @@ about-widget:
   author-avatar: avatar-me.jpg
   author-name: Jacqueline Krohn
   author-tagline: Creator
-  author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies.
+  author-info: more about me
   author-social-links:
     youtube: "#"
     linkedin: https://www.linkedin.com/in/jacqueline-krohn/
@@ -111,16 +111,16 @@ about-widget:
     google-plus: "#"
 
 # Google Map JS api
-key-api: YOUR_GOOGLE_MAP_API_KEY
-map-text: Sera Google Map
-map-lat: 44.4267674
-map-lng: 26.102538399999958
+# key-api: YOUR_GOOGLE_MAP_API_KEY
+# map-text: Sera Google Map
+# map-lat: 44.4267674
+# map-lng: 26.102538399999958
 
 # Enter your Mailchimp User ID and Campaign ID
 # @TODO: Add in a link for where to find these
-mailchimp:
-  user-id: REPLACEME
-  list-id: REPLACEME
+# mailchimp:
+#   user-id: REPLACEME
+#   list-id: REPLACEME
 
 ####
 #
@@ -149,17 +149,17 @@ features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. A
 features:
   # Feature
   - title: Work
-    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+    description: Learn more about the skills I developed in my education, career, and free time.
     icon: pe-7s-vector
 
   # Feature
   - title: Passions
-    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+    description: Check out some subjects and experiences that are important to me. 
     icon: pe-7s-help2
 
   # Feature
   - title: Everything Else
-    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+    description: See what else I'm up to!
     icon: pe-7s-airplay
 
 #####################################
@@ -232,7 +232,7 @@ portfolio:
 ##########  Core Features  ##########
 #####################################
 core-title: Skills
-core-description: Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis aliquet diam ut eleifend.
+core-description: I've developed the following skills through my projects and work experience. 
 
 #
 # Core Features Left
@@ -240,7 +240,7 @@ core-description: Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet 
 core-features-left:
   # Feature
   - name: Structured Query Language
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    description: SQL
     icon: pe-7s-light
 
   # Feature
@@ -263,17 +263,17 @@ core-features-left:
 core-features-right:
   # Feature
   - name: Statistics
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    description: Threoies
     icon: pe-7s-wine
 
   # Feature
   - name: Machine and Deep Learning
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    description: Model types
     icon: pe-7s-monitor
 
   # Feature
   - name: Mechanical Engineering
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    description: areas studied
     icon: pe-7s-crop
 
   # Feature
@@ -327,7 +327,7 @@ core-features-right:
 ############# Our Blog ##############
 #####################################
 blog-title: Explore My Projects
-blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+blog-description: Explore some of my thoughts and comments on projects or interests!
 
 #####################################
 ############### Team ################
