@@ -2,7 +2,7 @@
 layout: post
 title:  "NBA Player Dashboard"
 tagline: Tableau Dashboard
-date: 
+date: 2023-06-24
 categories: [Visualization]
 tags: [NBA, Basketball, Passion, Interactive, Dashboard]
 image: img-04.jpg
