@@ -362,20 +362,20 @@ mark {
 
 @font-face {
   font-family: 'iconfont';
-  src: url('../fonts/iconfont.eot'); /* IE9 Compat Modes */
-  src: url('../fonts/iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/iconfont.woff') format('woff'), /* Pretty Modern Browsers */
-       url('../fonts/iconfont.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/iconfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+  src: url('../fonts/iconfont/iconfont.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/iconfont/iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/iconfont/iconfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/iconfont/iconfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/iconfont/iconfont.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 
 .iconfont       { font-family: iconfont; }
 .iconfont-48    { font-size: 48px; }
 
 
-[data-icon]:before { content: attr(data-icon); }
+.if:before { content: attr(data-icon); }
 
-[data-icon]:before,
+.if:before,
 .icon-archive:before,
 .icon-browser:before,
 .icon-calendar:before,
