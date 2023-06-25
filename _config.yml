@@ -58,7 +58,7 @@ headter-tagline: Data. Engineering. <strong>Exploration.</strong>
 # Focus Buttons
 header-focus-button:
   title: Download CV
-  url: {{ baseurl }}/data/Jacqueline_Krohn_Resume.pdf #CHANGE LINK
+  url: {{ baseurl }}data/Jacqueline_Krohn_Resume.pdf #CHANGE LINK
 
 # Secondary Buttons - ----- MIGHT WANT TO DELETE
 header-secondary-button:
