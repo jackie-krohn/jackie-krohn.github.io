@@ -25,9 +25,9 @@
 .iconfont-48    { font-size: 48px; }
 
 
-.if:before { content: attr(data-icon); }
+.icon:before { content: attr(data-icon); }
 
-.if:before,
+.icon:before,
 .icon-archive:before,
 .icon-browser:before,
 .icon-calendar:before,
