@@ -182,31 +182,31 @@ portfolio:
     url: "#"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: Children's Mercy Patient Analysis
     categories: [Graphic Design, Logo, Websites]
     image: img-02.jpg
     url: "#"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: Airline Customer Satisfaction
     categories: [Graphic Design, Logo, Photography]
     image: img-03.jpg
     url: "#"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: Scraping Financial Data
     categories: [Websites, Video, Photography]
     image: img-04.jpg
     url: "#"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: Transmission Line Monitoring
     categories: [Development, Logo]
     image: img-05.jpg
     url: "#"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: Food 3-D Printing
     categories: [Development, Video]
     image: img-06.jpg
     url: "#"
