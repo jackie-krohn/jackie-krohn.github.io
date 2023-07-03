@@ -30,5 +30,8 @@ Imagine you are taking a transatlantic flight and the cellular data won't be abl
 
 The loyalty program plays an essential role for our company as well. Even though there are many airline choices, customers prefer to stay at a specific airline and enjoy the airline's program benefits. Thus, we should launch a good loyalty program for our customers. For example, we increase miles transfer partners, let loyal customers enter the lounge to wait for their flight, and expand airline alliances, allowing our customers to book our partner flights using our miles. Depending on the statistical data, we also need to cooperate with our flight scheduling team to find the optimized departure time, allowing our customers to have a suitable flight schedule. In the future, further studies to understand how customer satisfaction increases loyalty due to the improved loyalty program benefits will help efficiency with budget use for benefits.
 
+<pre><code>
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSPVdvnh6_n2m8Gqe796MWW5qKdA4gqBcwighbpVspyW28pkXfZvuAeB9IiIQffNQ2OWbdCwwotJb9q/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+</code></pre>
