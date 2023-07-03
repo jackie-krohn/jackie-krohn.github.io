@@ -179,7 +179,7 @@ portfolio:
   - title: NBA Team Dashboard
     categories: [Visualization]
     image: img-01.jpg
-    url: "#"
+    url: "_projects/NBAdashboard.markdown"
 
   # Portfolio Item
   - title: Children's Mercy Patient Analysis
