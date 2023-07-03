@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Satisfying Airline Customers"
+title:  "Pneumonia Diagnosis Using CNN"
 tagline: Machine Learning for Business Recommendations
 date: 2023-06-25
 categories: [Machine Learning]
