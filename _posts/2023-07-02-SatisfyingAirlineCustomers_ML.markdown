@@ -9,9 +9,8 @@ image: img-04.jpg
 permalink: /nba-dashboard.html
 ---
 
-Summary:
 
-  Our motivation primarily focuses on how to improve customer Satisfaction. Customer Satisfaction relates to multiple dimensions, such as maximizing profit, keeping a loyalty program, and solving the common concerns of the airline field.
+  The motivation of this project primarily focuses on how to improve customer Satisfaction. Customer Satisfaction relates to multiple dimensions, such as maximizing profit, keeping a loyalty program, and solving the common concerns of the airline field.
 
 	Customer Satisfaction directly links to our profit. Giving a warm flight experience will lead to a high customer satisfaction rate which can boost our brand reputation, causing more passengers to choose to fly with our airlines. Thus, when the airline spends the same amount to run the flight, the revenue from selling the flight ticket will increase, increasing our profit simultaneously.
 
