@@ -179,7 +179,7 @@ portfolio:
   - title: NBA Team Dashboard
     categories: [Visualization]
     image: img-01.jpg
-    url: "_projects/NBAdashboard.markdown"
+    url: "https://jackie-krohn.github.io/visualization/2023/06/24/NBA-dashboard.html"
 
   # Portfolio Item
   - title: Children's Mercy Patient Analysis
