@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pneumonia Diagnosis Using CNN"
-tagline: Machine Learning for Business Recommendations
+tagline: Deep Learning with Diagnostics
 date: 2023-06-25
 categories: [Machine Learning]
 tags: [Travel, Airline, XGBoost]
