@@ -60,10 +60,10 @@ header-focus-button:
   title: Download CV
   url: https://jackie-krohn.github.io/data/Jacqueline_Krohn_Resume.pdf #CHANGE LINK
 
-# Secondary Buttons - ----- MIGHT WANT TO DELETE
-header-secondary-button:
-  title: Discover More
-  url: "https://jackie-krohn.github.io/portfolio.html"
+# # Secondary Buttons - ----- MIGHT WANT TO DELETE
+# header-secondary-button:
+#   title: Discover More
+#   url: "https://jackie-krohn.github.io/portfolio.html"
 
 #
 # This is your email adress, contact from send here all emails from contact section
