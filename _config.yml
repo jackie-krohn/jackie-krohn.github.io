@@ -184,7 +184,7 @@ portfolio:
   # Portfolio Item
   - title: Children's Mercy Patient Analysis
     categories: [Machine Learning, Group Work]
-    image: img-med.jpg
+    image: img-med.jpeg
     url: "#"
     
   # Portfolio Item
@@ -196,13 +196,13 @@ portfolio:
   # Portfolio Item
   - title: Airline Customer Satisfaction
     categories: [Machine Learning, Group Work]
-    image: img-air.jpg
+    image: img-air.jpeg
     url: "https://jackie-krohn.github.io/airline-satisfaction.html"
 
   # Portfolio Item
   - title: Scraping Financial Data
     categories: [Data]
-    image: img-fin.jpg
+    image: img-fin.jpeg
     url: "#"
 
   # Portfolio Item
