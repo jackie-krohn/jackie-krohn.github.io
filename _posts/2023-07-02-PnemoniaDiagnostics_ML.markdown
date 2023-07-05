@@ -20,7 +20,7 @@ Our model, which has high accuracy and a high confidence level, has the potentia
 
 <pre><code>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR8rCy1s--WTHrH4UNYIXyZbQL916Huw6WulHH_-_XvCOfc_VIFlg5LuaAsPsRZkw/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxeKOoILqLQpWzOWM8iw2j1rp5LNhII129VoUpsn3N_unojVorXot_VwTft_tGWi1Z_PwY-FqMZQWu/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </code></pre>
 
