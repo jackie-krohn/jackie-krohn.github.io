@@ -63,7 +63,7 @@ header-focus-button:
 # Secondary Buttons - ----- MIGHT WANT TO DELETE
 header-secondary-button:
   title: Discover More
-  url: https://jackie-krohn.github.io/portfolio.html
+  url: "blog.html"
 
 #
 # This is your email adress, contact from send here all emails from contact section
