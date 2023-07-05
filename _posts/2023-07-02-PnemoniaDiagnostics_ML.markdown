@@ -6,7 +6,7 @@ date: 2023-06-25
 categories: [Machine Learning]
 tags: [Travel, Airline, XGBoost]
 image: img-04.jpg
-permalink: /nba-dashboard.html
+permalink: /pnemonia-image-recognition.html
 ---
 
 

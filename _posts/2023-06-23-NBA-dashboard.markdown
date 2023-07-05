@@ -6,6 +6,7 @@ date: 2023-06-24
 categories: [Visualization]
 tags: [NBA, Basketball, Passion, Interactive, Dashboard]
 image: img-04.jpg
+permalink: /nba-dashboard.html
 ---
 
 
