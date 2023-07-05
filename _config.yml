@@ -173,47 +173,47 @@ portfolio-description: Check out some of the different projects I've worked on o
 # Portfolio Grid
 #
 portfolio-categories:
-  [Engineering, Visualization, Machine Learning, Group Work, Passions]
+  [Engineering, Data, Visualization, Machine Learning, Group Work, Passions]
 portfolio:
   # Portfolio Item
   - title: NBA Team Dashboard
-    categories: [Visualization]
+    categories: [Visualization, Passions, Group Work]
     image: img-01.jpg
-    url: "https://jackie-krohn.github.io/visualization/2023/06/24/NBA-dashboard.html"
+    url: "https://jackie-krohn.github.io/nba-dashboard.html"
 
   # Portfolio Item
   - title: Children's Mercy Patient Analysis
-    categories: [Graphic Design, Logo, Websites]
+    categories: [Machine Learning, Group Work]
     image: img-02.jpg
     url: "#"
     
   # Portfolio Item
   - title: Deep Learning Pnemonia Diagnostics
-    categories: [Graphic Design, Logo, Websites]
+    categories: [Machine Learning]
     image: img-02.jpg
     url: "https://jackie-krohn.github.io/pnemonia-image-recognition.html"
 
   # Portfolio Item
   - title: Airline Customer Satisfaction
-    categories: [Graphic Design, Logo, Photography]
+    categories: [Machine Learning, Group Work]
     image: img-03.jpg
     url: "https://jackie-krohn.github.io/airline-satisfaction.html"
 
   # Portfolio Item
   - title: Scraping Financial Data
-    categories: [Websites, Video, Photography]
+    categories: [Data]
     image: img-04.jpg
     url: "#"
 
   # Portfolio Item
   - title: Transmission Line Monitoring
-    categories: [Development, Logo]
+    categories: [Engineering]
     image: img-05.jpg
-    url: "https://jackie-krohn.github.io/machine%20learning/2023/06/25/TransmissionLineMonitoring_ME.html"
+    url: "https://jackie-krohn.github.io/transmission-monitoring-design.html"
 
   # Portfolio Item
   - title: Food 3-D Printing
-    categories: [Development, Video]
+    categories: [Engineering, Passions]
     image: img-06.jpg
     url: "#"
 
