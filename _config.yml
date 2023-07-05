@@ -178,37 +178,37 @@ portfolio:
   # Portfolio Item
   - title: NBA Team Dashboard
     categories: [Visualization, Passions, Group Work]
-    image: img-01.jpg
+    image: img-nba.jpg
     url: "https://jackie-krohn.github.io/nba-dashboard.html"
 
   # Portfolio Item
   - title: Children's Mercy Patient Analysis
     categories: [Machine Learning, Group Work]
-    image: img-02.jpg
+    image: img-med.jpg
     url: "#"
     
   # Portfolio Item
   - title: Deep Learning Pnemonia Diagnostics
     categories: [Machine Learning]
-    image: img-02.jpg
+    image: img-pne.jpg
     url: "https://jackie-krohn.github.io/pnemonia-image-recognition.html"
 
   # Portfolio Item
   - title: Airline Customer Satisfaction
     categories: [Machine Learning, Group Work]
-    image: img-03.jpg
+    image: img-air.jpg
     url: "https://jackie-krohn.github.io/airline-satisfaction.html"
 
   # Portfolio Item
   - title: Scraping Financial Data
     categories: [Data]
-    image: img-04.jpg
+    image: img-fin.jpg
     url: "#"
 
   # Portfolio Item
   - title: Transmission Line Monitoring
     categories: [Engineering]
-    image: img-05.jpg
+    image: img-tran.jpg
     url: "https://jackie-krohn.github.io/transmission-monitoring-design.html"
 
   # Portfolio Item
