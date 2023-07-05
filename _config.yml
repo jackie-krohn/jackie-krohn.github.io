@@ -63,7 +63,7 @@ header-focus-button:
 # Secondary Buttons - ----- MIGHT WANT TO DELETE
 header-secondary-button:
   title: Discover More
-  url: http://themeforest.net/user/ohkimur
+  url: https://jackie-krohn.github.io/portfolio.html
 
 #
 # This is your email adress, contact from send here all emails from contact section
@@ -186,12 +186,18 @@ portfolio:
     categories: [Graphic Design, Logo, Websites]
     image: img-02.jpg
     url: "#"
+    
+  # Portfolio Item
+  - title: Deep Learning Pnemonia Diagnostics
+    categories: [Graphic Design, Logo, Websites]
+    image: img-02.jpg
+    url: "https://jackie-krohn.github.io/pnemonia-image-recognition.html"
 
   # Portfolio Item
   - title: Airline Customer Satisfaction
     categories: [Graphic Design, Logo, Photography]
     image: img-03.jpg
-    url: "#"
+    url: "https://jackie-krohn.github.io/airline-satisfaction.html"
 
   # Portfolio Item
   - title: Scraping Financial Data
@@ -203,7 +209,7 @@ portfolio:
   - title: Transmission Line Monitoring
     categories: [Development, Logo]
     image: img-05.jpg
-    url: "#"
+    url: "https://jackie-krohn.github.io/machine%20learning/2023/06/25/TransmissionLineMonitoring_ME.html"
 
   # Portfolio Item
   - title: Food 3-D Printing
