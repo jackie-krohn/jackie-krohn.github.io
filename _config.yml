@@ -137,32 +137,32 @@ about-widget:
 #############   About   #############
 #####################################
 about-title: Welcome to Jackie's Portfolio
-about-description: My name is Jacqueline(Jackie) Krohn. Write a page summary.
+about-description: My name is Jacqueline(Jackie) Krohn. I'm an engineer and data enthusiast. Learn more about the skills I developed in my education, career, and free time. Check out some subjects and experiences that are important to me. 
 
 #####################################
 #############  Features  ############
 #####################################
-features-title: Features
-features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante.
+features-title: Work Process
+features-description: I take the following approach in my work and demonstrate this process in my portfolio.
 
 #
 # Features
 #
 features:
   # Feature
-  - title: Work
-    description: Learn more about the skills I developed in my education, career, and free time.
+  - title: Evaluate
+    description: I love to understand the full picture by taking time investigate problems and find interesting data. 
+    icon: pe-7s-search
+
+  # Feature
+  - title: Create
+    description: Through data processing, application of statistical methods, computer aided modeling, machine learning, and much more learned skills, I create solutions to engineering and data-based questions
     icon: pe-7s-vector
 
   # Feature
-  - title: Passions
-    description: Check out some subjects and experiences that are important to me. 
-    icon: pe-7s-help2
-
-  # Feature
-  - title: Everything Else
-    description: See what else I'm up to!
-    icon: pe-7s-airplay
+  - title: Solve
+    description: I utilize crisp vizualizations to communicate thourough solutions fueled by my perfectionsim.
+    icon: pe-7s-graph2
 
 #####################################
 ############  Portfolio  ############
