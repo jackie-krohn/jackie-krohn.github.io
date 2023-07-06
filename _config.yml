@@ -106,10 +106,11 @@ about-widget:
     youtube: "#"
     linkedin: https://www.linkedin.com/in/jacqueline-krohn/
     pinterest: "#"
-    facebook: "#"
-    twitter: "#"
+    facebook: https://www.facebook.com/jackie.krohn.9/
+    linkedin: https://www.linkedin.com/in/jacqueline-krohn/
     instagram: https://www.instagram.com/jackie_krohn/
-    google-plus: "#"
+    github: https://github.com/jackie-krohn/
+    email: mailto:jacquelinekrohn1@gmail.com
 
 # Google Map JS api
 # key-api: YOUR_GOOGLE_MAP_API_KEY
