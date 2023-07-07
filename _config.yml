@@ -191,7 +191,7 @@ portfolio:
     git: "#"
     
   # Portfolio Item
-  - title: Deep Learning <br> Pnemonia Diagnostics
+  - title: Deep Learning <br> Pnemonia <br> Diagnostics
     categories: [Machine Learning]
     image: img-pne.jpg
     url: "https://jackie-krohn.github.io/pnemonia-image-recognition.html"
@@ -262,7 +262,7 @@ core-features-left:
 
   # Feature
   - name: Visualization
-    description: Tableau, microsoft, and adobe products
+    description: Tableau, Microsoft Office, and Adobe products
     icon: pe-7s-drop
 
   # Feature
@@ -285,12 +285,12 @@ core-features-right:
 
   # Feature
   - name: Machine and Deep Learning
-    description: Model types
+    description: XGBoost, Random Forest, Neural Networks, Clustering, NLP, Image
     icon: pe-7s-monitor
 
   # Feature
   - name: Mechanical Engineering
-    description: areas studied
+    description: 
     icon: pe-7s-crop
 
   # Feature
