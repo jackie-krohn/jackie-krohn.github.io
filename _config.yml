@@ -177,58 +177,67 @@ portfolio-categories:
   [Engineering, Data, Visualization, Machine Learning, Group Work, Passions]
 portfolio:
   # Portfolio Item
-  - title: NBA Team Dashboard
+  - title: NBA Team <br> Dashboard
     categories: [Visualization, Passions, Group Work]
     image: img-nba.jpg
     url: "https://jackie-krohn.github.io/nba-dashboard.html"
+    git: "#"
 
   # Portfolio Item
-  - title: Children's Mercy Patient Analysis
+  - title: Children's Mercy <br> Patient Analysis
     categories: [Machine Learning, Group Work]
     image: img-med.jpeg
     url: "#"
+    git: "#"
     
   # Portfolio Item
-  - title: Deep Learning Pnemonia Diagnostics
+  - title: Deep Learning <br> Pnemonia Diagnostics
     categories: [Machine Learning]
     image: img-pne.jpg
     url: "https://jackie-krohn.github.io/pnemonia-image-recognition.html"
+    git: "#"
 
   # Portfolio Item
-  - title: Airline Customer Satisfaction
+  - title: Airline Customer <br> Satisfaction
     categories: [Machine Learning, Group Work]
     image: img-air.jpeg
     url: "https://jackie-krohn.github.io/airline-satisfaction.html"
+    git: "#"
 
   # Portfolio Item
-  - title: Scraping Financial Data
+  - title: Scraping <br> Financial Data
     categories: [Data]
     image: img-fin.jpeg
     url: "#"
+    git: "#"
 
   # Portfolio Item
-  - title: Transmission Line Monitoring
+  - title: Transmission Line <br> Monitoring
     categories: [Engineering]
     image: img-tran.jpg
     url: "https://jackie-krohn.github.io/transmission-monitoring-design.html"
+    git: "#"
 
   # Portfolio Item
   - title: Food 3-D Printing
     categories: [Engineering, Passions]
     image: img-06.jpg
     url: "#"
+    git: "#"
 
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
     categories: [Websites, Graphic Design]
     image: img-07.jpg
     url: "#"
+    git: "#"
 
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
     categories: [Websites, Video]
     image: img-08.jpg
     url: "#"
+    git: "#"
 
   # # Portfolio Item
   # - title: S<span class="thin">era</span> Style
