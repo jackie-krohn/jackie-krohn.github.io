@@ -112,11 +112,11 @@ about-widget:
     github: https://github.com/jackie-krohn/
     email: mailto:jacquelinekrohn1@gmail.com
 
-# Google Map JS api
-# key-api: YOUR_GOOGLE_MAP_API_KEY
-# map-text: Sera Google Map
-# map-lat: 44.4267674
-# map-lng: 26.102538399999958
+Google Map JS api
+  key-api: YOUR_GOOGLE_MAP_API_KEY
+  map-text: Locate me
+  map-lat: 44.4267674
+  map-lng: 26.102538399999958
 
 # Enter your Mailchimp User ID and Campaign ID
 # @TODO: Add in a link for where to find these
