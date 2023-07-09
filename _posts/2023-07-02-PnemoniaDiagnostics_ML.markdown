@@ -14,7 +14,7 @@ permalink: /pnemonia-image-recognition.html
 <br> 
 
 <blockquote>
-More than <strong>2,000</strong> children die from pneumonia every day. 
+More than <strong>2,000 children</strong> die from pneumonia every day. 
 </blockquote>
 
 In underdeveloped countries where access to medical treatment is limited, pneumonia is more common and likely to have serious implications. To improve diagnostics, a convolutional neural network model was used to classify pneumonia in pediatric chest x-rays. 
@@ -23,7 +23,7 @@ The performance and effectiveness of the model were evaluated, and it was found 
 
 Our model, which has high accuracy and a high confidence level, has the potential to save over $200 million annually in Nigeria’s patient costs. While further model training, system implementation, and personnel training are required, the potential benefits of implementing deep learning algorithms in pneumonia diagnosis are significant and should be considered as a viable solution for improving healthcare outcomes.
 
-[Check out the full memo here.](https://jackie-krohn.github.io/data/Pnemonia_Memo_Krohn_Jackie.pdf)
+[<strong>Check out the full memo here.</strong>](https://jackie-krohn.github.io/data/Pnemonia_Memo_Krohn_Jackie.pdf)
 
 <pre><code>
 
