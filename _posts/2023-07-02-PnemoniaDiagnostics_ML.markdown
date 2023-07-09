@@ -13,8 +13,8 @@ permalink: /pnemonia-image-recognition.html
 
 <br> 
 
-<blockquote cite="https://github.com/ohkimur">
-More than 2,000 children die from pneumonia every day. 
+<blockquote>
+More than <strong>2,000</strong> children die from pneumonia every day. 
 </blockquote>
 
 In underdeveloped countries where access to medical treatment is limited, pneumonia is more common and likely to have serious implications. To improve diagnostics, a convolutional neural network model was used to classify pneumonia in pediatric chest x-rays. 
