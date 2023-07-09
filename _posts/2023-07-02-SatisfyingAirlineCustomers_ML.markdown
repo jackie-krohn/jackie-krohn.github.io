@@ -5,7 +5,7 @@ tagline: Machine Learning for Business Recommendations
 date: 2023-06-25
 categories: [Machine Learning]
 tags: [Travel, Airline, XGBoost]
-image: img-04.jpg
+image: img-air.jpeg
 permalink: /airline-satisfaction.html
 ---
 

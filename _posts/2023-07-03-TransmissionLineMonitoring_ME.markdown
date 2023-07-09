@@ -5,7 +5,7 @@ tagline: Design of Transmission Line Monitoring Unit
 date: 2023-06-25
 categories: [Machine Learning]
 tags: [Engineering, Design, Modeling]
-image: img-04.jpg
+image: img-tran.jpeg
 permalink: /transmission-monitoring-design.html
 ---
 

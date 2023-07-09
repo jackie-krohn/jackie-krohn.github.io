@@ -4,11 +4,11 @@ title:  "Pneumonia Diagnosis Using CNN"
 tagline: Deep Learning with Diagnostics
 date: 2023-06-25
 categories: [Machine Learning]
-tags: [Travel, Airline, XGBoost]
-image: img-04.jpg
+tags: [XGBoost, CNN, Neural Network, Image Classification, Medical, Philanthropy]
 permalink: /pnemonia-image-recognition.html
 ---
 
+<iframe src="https://ourworldindata.org/grapher/pneumonia-death-rates-age-standardized" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 More than 2,000 children die from pneumonia every day. In underdeveloped countries where access to medical treatment is limited, pneumonia is more common and likely to have serious implications. To improve diagnostics, a convolutional neural network model was used to classify pneumonia in pediatric chest x-rays. 
 
