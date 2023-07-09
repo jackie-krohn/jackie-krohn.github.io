@@ -6,7 +6,7 @@ date: 2023-06-25
 categories: [Machine Learning]
 tags: [XGBoost, Medical, Health Care, Philanthropy]
 image: img-cap.jpeg
-permalink: /pnemonia-image-recognition.html
+permalink: /childrens-mercy-patient-care.html
 ---
 
 

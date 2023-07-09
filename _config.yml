@@ -187,7 +187,7 @@ portfolio:
   - title: Children's Mercy <br> Patient Analysis
     categories: [Machine Learning, Group Work]
     image: img-med.jpeg
-    url: "#"
+    url: "https://jackie-krohn.github.io/childrens-mercy-patient-care.html"
     git: "#"
     
   # Portfolio Item
