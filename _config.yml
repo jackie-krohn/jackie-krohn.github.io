@@ -270,14 +270,16 @@ core-features-left:
     description: Packages - Pandas, NumPy, Seaborn, Matplotlib, Sklearn, whisper, keras, selenium, BeautifulSoup, Tidyverse(tidyr, dplyr, ggplot2), Xgboost, randomForest, caret, cluster, rvest
     icon: pe-7s-monitor
 
-  # Feature
-  - name: Computor Aided Design
-    description: Versed in AutoCAD and Solidworks 3-D design and simulation work and technical drawings.
-    icon: pe-7s-box2
+
 #
 # Core Features Right
 #
 core-features-right:
+  # Feature
+  - name: Computor Aided Design
+    description: Versed in AutoCAD and Solidworks 3-D design and simulation work and technical drawings.
+    icon: pe-7s-box2  
+    
   # Feature
   - name: Statistics
     description: Regression, hypothesis testing
@@ -293,10 +295,6 @@ core-features-right:
     description: Automotive, Mechatronics, Fluids, Materials, Thermodynamics
     icon: pe-7s-rocket
 
-  # Feature
-  - name: Photography
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-    icon: pe-7s-camera
 
 # #####################################
 # ########### Testimonials ############
