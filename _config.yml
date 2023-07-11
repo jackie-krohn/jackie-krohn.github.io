@@ -258,22 +258,22 @@ core-features-left:
   # Feature
   - name: Structured Query Language (SQL)
     description: Queries, Database Management, Data Structure
-    icon: pe-7s-light
+    icon: pe-7s-server
 
   # Feature
   - name: Visualization
     description: Tableau, Microsoft Office, and Adobe products
-    icon: pe-7s-drop
+    icon: pe-7s-display2
 
   # Feature
-  - name: Coding Languages
-    description: Pandas, NumPy, Seaborn, Matplotlib
-    icon: pe-7s-coffee
+  - name: Coding Languages - R and Python
+    description: Packages - Pandas, NumPy, Seaborn, Matplotlib
+    icon: pe-7s-monitor
 
   # Feature
   - name: Computor Aided Design
     description: Versed in AutoCAD and Solidworks 3-D design and simulation work and technical drawings.
-    icon: pe-7s-smile
+    icon: pe-7s-box2
 #
 # Core Features Right
 #
@@ -281,17 +281,17 @@ core-features-right:
   # Feature
   - name: Statistics
     description: Regression, hypothesis testing
-    icon: pe-7s-wine
+    icon: pe-7s-note
 
   # Feature
   - name: Machine and Deep Learning
     description: XGBoost, Random Forest, Neural Networks, Clustering, NLP, Image
-    icon: pe-7s-monitor
+    icon: pe-7s-network
 
   # Feature
   - name: Mechanical Engineering
     description: Automotive, Mechatronics, Fluids, Materials, Thermodynamics
-    icon: pe-7s-crop
+    icon: pe-7s-rocket
 
   # Feature
   - name: Photography
