@@ -3,10 +3,10 @@ layout: post
 title:  "Children's Mercy Patient Satisfaction"
 tagline: Business Analytics in Health Care
 date: 2023-06-25
-categories: [Machine Learning, Data]
+categories: [Machine Learning]
 tags: [XGBoost, Medical, Health Care, Philanthropy]
 image: img-cap.jpeg
-permalink: /financial-data.html
+permalink: /childrens-mercy-patient-care.html
 ---
 
 

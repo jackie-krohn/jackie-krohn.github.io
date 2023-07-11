@@ -174,7 +174,7 @@ portfolio-description: Check out some of the different projects I've worked on o
 # Portfolio Grid
 #
 portfolio-categories:
-  [Engineering, Data, Visualization, Machine Learning, Group Work, Passions]
+  [Engineering, Data, Visualization, Machine Learning, Passions]
 portfolio:
   # Portfolio Item
   - title: NBA Team <br> Dashboard
@@ -208,7 +208,7 @@ portfolio:
   - title: Scraping <br> Financial Data
     categories: [Data]
     image: img-fin.jpeg
-    url: "#"
+    url: "https://jackie-krohn.github.io/financial-data.html"
     git: "#"
 
   # Portfolio Item
