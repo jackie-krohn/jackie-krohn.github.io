@@ -218,26 +218,7 @@ portfolio:
     url: "https://jackie-krohn.github.io/transmission-monitoring-design.html"
     git: "#"
 
-  # Portfolio Item
-  - title: Food 3-D Printing
-    categories: [Engineering, Passions]
-    image: img-06.jpg
-    url: "#"
-    git: "#"
 
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Websites, Graphic Design]
-    image: img-07.jpg
-    url: "#"
-    git: "#"
-
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Websites, Video]
-    image: img-08.jpg
-    url: "#"
-    git: "#"
 
   # # Portfolio Item
   # - title: S<span class="thin">era</span> Style
