@@ -261,40 +261,42 @@ core-features-left:
     icon: pe-7s-server
 
   # Feature
-  - name: Visualization
-    description: Tableau, Microsoft Office, and Adobe products
-    icon: pe-7s-display2
-
+  - name: Machine and Deep Learning
+    description: XGBoost, Random Forest, Neural Networks, Clustering, NLP, Image
+    icon: pe-7s-network
+ 
   # Feature
-  - name: Coding Languages - R and Python
-    description: Packages - Pandas, NumPy, Seaborn, Matplotlib, Sklearn, whisper, keras, selenium, BeautifulSoup, Tidyverse, Xgboost, randomForest, caret, cluster, rvest
-    icon: pe-7s-monitor
-
-
-#
-# Core Features Right
-#
-core-features-right:
+  - name: Statistics
+    description: Regression, hypothesis testing
+    icon: pe-7s-note
+    
   # Feature
   - name: Computor Aided Design
     description: Versed in AutoCAD and Solidworks 3-D design and simulation work and technical drawings.
     icon: pe-7s-box2  
     
-  # Feature
-  - name: Statistics
-    description: Regression, hypothesis testing
-    icon: pe-7s-note
+
+#
+# Core Features Right
+#
+core-features-right:
 
   # Feature
-  - name: Machine and Deep Learning
-    description: XGBoost, Random Forest, Neural Networks, Clustering, NLP, Image
-    icon: pe-7s-network
+  - name: Visualization
+    description: Tableau, Microsoft Office, and Adobe products
+    icon: pe-7s-display2
+    
+
 
   # Feature
   - name: Mechanical Engineering
     description: Automotive, Mechatronics, Fluids, Materials, Thermodynamics
     icon: pe-7s-rocket
 
+  # Feature
+  - name: Coding Language: R & Python
+    description: Packages - Pandas, NumPy, Seaborn, Matplotlib, Sklearn, whisper, keras, selenium, BeautifulSoup, Tidyverse, Xgboost, randomForest, caret, cluster, rvest
+    icon: pe-7s-monitor
 
 # #####################################
 # ########### Testimonials ############
