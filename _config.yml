@@ -267,7 +267,7 @@ core-features-left:
 
   # Feature
   - name: Coding Languages - R and Python
-    description: Packages - Pandas, NumPy, Seaborn, Matplotlib, Sklearn, whisper, keras, selenium, BeautifulSoup, Tidyverse(tidyr, dplyr, ggplot2), Xgboost, randomForest, caret, cluster, rvest
+    description: Packages - Pandas, NumPy, Seaborn, Matplotlib, Sklearn, whisper, keras, selenium, BeautifulSoup, Tidyverse, Xgboost, randomForest, caret, cluster, rvest
     icon: pe-7s-monitor
 
 
