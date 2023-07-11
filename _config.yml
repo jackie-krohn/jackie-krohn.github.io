@@ -256,8 +256,8 @@ core-description: I've developed the following skills through my projects and wo
 #
 core-features-left:
   # Feature
-  - name: Structured Query Language
-    description: SQL
+  - name: Structured Query Language (SQL)
+    description: Queries, Database Management, Data Structure
     icon: pe-7s-light
 
   # Feature
@@ -267,7 +267,7 @@ core-features-left:
 
   # Feature
   - name: Coding Languages
-    description: Python and R. List packages!!!!!
+    description: Pandas, NumPy, Seaborn, Matplotlib
     icon: pe-7s-coffee
 
   # Feature
@@ -280,7 +280,7 @@ core-features-left:
 core-features-right:
   # Feature
   - name: Statistics
-    description: Regression, 
+    description: Regression, hypothesis testing
     icon: pe-7s-wine
 
   # Feature
