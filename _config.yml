@@ -289,11 +289,6 @@ core-features-right:
     icon: pe-7s-box2  
     
   # Feature
-  - name: Structured Query Language (SQL)
-    description: Queries, Database Management, Data Structure
-    icon: pe-7s-server
-    
-  # Feature
   - name: Visualization
     description: Tableau, Microsoft Office, and Adobe products
     icon: pe-7s-display2
