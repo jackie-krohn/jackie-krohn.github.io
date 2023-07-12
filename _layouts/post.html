@@ -25,14 +25,14 @@ layout: page
     <!-- Article Tool Boxes -->
     <div class="article-boxes">
 
-<div class = "col hidethis">     <!-- Tags Box -->
+     <!-- Tags Box -->
       <div class="tags-article box">
         <span class="title">Tags:</span>
         <ul class="tag-cloud-box box-content">
           {% assign tags_list = page.tags %}
             {% if tags_list.first[0] == null %}
               {% for tag in tags_list %}
-                <li><a href="{{ site.baseurl }}/tag/{{ tag | slugify }}">{{ tag }}</a></li>
+                <li><!--<a href="{{ site.baseurl }}/tag/{{ tag | slugify }}">-->{{ tag }}</a></li>
               {% endfor %}
             {% else %}
               {% for tag in tags_list %}
@@ -42,7 +42,6 @@ layout: page
           {% assign tags_list = nil %}
         </ul>
       </div>
-  </div>
 
       <!-- Share Article Links Box -->
       <div class="share-article box clearfix">
