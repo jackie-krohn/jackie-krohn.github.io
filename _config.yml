@@ -151,17 +151,17 @@ features-description: I take the following approach in my work and demonstrate t
 features:
   # Feature
   - title: Evaluate
-    description: I love to understand the full picture by taking time investigate problems and find interesting data. 
+    description: I love to understand the full picture by taking time to investigate problems and find interesting data. 
     icon: pe-7s-search
 
   # Feature
   - title: Create
-    description: Through data processing, application of statistical methods, computer aided modeling, machine learning, and much more learned skills, I create solutions to engineering and data-based questions
+    description: Through data processing, application of statistical methods, computer aided modeling, machine learning, and many more learned skills, I create solutions to engineering and data-based questions
     icon: pe-7s-vector
 
   # Feature
   - title: Solve
-    description: I utilize crisp vizualizations to communicate thourough solutions fueled by my perfectionsim.
+    description: I utilize crisp visualizations to communicate thourough solutions fueled by my perfectionsim.
     icon: pe-7s-graph2
 
 #####################################
