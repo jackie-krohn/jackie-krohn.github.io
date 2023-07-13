@@ -191,10 +191,10 @@ portfolio:
     git: "https://jackie-krohn.github.io/childrens-mercy-patient-care.html"
     
   # Portfolio Item
-  - title: Deep Learning <br> Pnemonia <br> Diagnostics
+  - title: Deep Learning <br> Pneumonia <br> Diagnostics
     categories: [Machine Learning]
     image: img-pne.jpg
-    url: "https://jackie-krohn.github.io/pnemonia-image-recognition.html"
+    url: "https://jackie-krohn.github.io/pneumonia-image-recognition.html"
     git: "https://github.com/jackie-krohn/pneumonia-diagnosis"
 
   # Portfolio Item
