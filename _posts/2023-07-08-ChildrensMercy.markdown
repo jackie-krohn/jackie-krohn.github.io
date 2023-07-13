@@ -6,7 +6,7 @@ date: 2023-06-25
 categories: [Machine Learning, Data]
 tags: [XGBoost, Medical, Health Care, Philanthropy]
 image: img-cap.jpeg
-permalink: /financial-data.html
+permalink: /childrens-mercy-patient-care.html
 ---
 
 
