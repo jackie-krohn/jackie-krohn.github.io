@@ -240,7 +240,7 @@ core-features-left:
 
   # Feature
   - name: Mechanical Engineering
-    description: Automotive, Mechatronics, Fluids, Materials, Thermodynamics
+    description: Automotive, Systems and Controls, Mechatronics, Fluids, Materials, Thermodynamics
     icon: pe-7s-rocket
  
   # Feature
