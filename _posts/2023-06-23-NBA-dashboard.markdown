@@ -9,9 +9,14 @@ image: img-nba.jpeg
 permalink: /nba-dashboard.html
 ---
 
+The purpose of this project is to give the Indiana Pacer's Rick Carlisle and his team insight for the performace of their team on a league level and within their roster. 
 
+The Home page of the dashboard displays the league standins, showing the wins and loses of each NBA team, while the graph on the right shows major stats for players withing the league. We can easily pick out which players of the Pacer's are leading the league in any particular stats.
 
-This project uses Tableau with NBA data.
+The player stats page can be used to pick out players that could benefit the team most. The graph shows the measure for player effciency rate (PER) vs. average minutes played per game. It might be advangeous to give players with higher PER more playing time. Further, the shot heat map at the botttom shows where a selected player is taking most of their shots from. The graphs on the right side can be used to comapare the 2PT and 3PT percentages to the average playoff team. These are great insights to bring with you when choosing your line up.
+
+On the lineup stats page, the coaching staff can pick five players to see how their game stats will compare to the league average for each stat. The coaching staff can focus on balancing their line up, or focus on optimising particular stats. Using this tool can give coaching staff insight to how they should expect the players to perform and as strategy tool. 
+
 
 <pre><code>
 
