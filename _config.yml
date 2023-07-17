@@ -176,12 +176,6 @@ portfolio-description: Check out some of the different projects I've worked on o
 portfolio-categories:
   [Engineering, Data, Visualization, Machine Learning, Passions]
 portfolio:
-  # Portfolio Item
-  - title: NBA Team <br> Dashboard
-    categories: [Visualization, Passions, Group Work]
-    image: img-nba.jpg
-    url: "https://jackie-krohn.github.io/nba-dashboard.html"
-    git: "https://jackie-krohn.github.io/nba-dashboard.html"
 
   # Portfolio Item
   - title: Children's Mercy <br> Patient Analysis
@@ -197,6 +191,12 @@ portfolio:
     url: "https://jackie-krohn.github.io/pneumonia-image-recognition.html"
     git: "https://github.com/jackie-krohn/pneumonia-diagnosis"
 
+  # Portfolio Item
+  - title: NBA Team <br> Dashboard
+    categories: [Visualization, Passions, Group Work]
+    image: img-nba.jpg
+    url: "https://jackie-krohn.github.io/nba-dashboard.html"
+    git: "https://jackie-krohn.github.io/nba-dashboard.html"
   # Portfolio Item
   - title: Airline Customer <br> Satisfaction
     categories: [Machine Learning, Group Work]
