@@ -10,8 +10,8 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
   
   <!-- Adding Analytics to Head -->
-{% if site.google_analytics and jekyll.environment == 'production' %}
-{% include analytics.html %}
+{% if site.google_analytics_measurementID and jekyll.environment == 'production' %}
+{% include google_analytics.html %}
 {% endif %}
   
 </head>
