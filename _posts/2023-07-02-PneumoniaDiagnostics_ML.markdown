@@ -4,7 +4,7 @@ title:  "Pneumonia Diagnosis Using CNN"
 tagline: Deep Learning with Diagnostics
 date: 2023-06-25
 categories: [Machine Learning]
-tags: [Travel, Airline, XGBoost]
+tags: [XGBoost, CNN, Neural Network, Image Classification, Medical, Philanthropy]
 image: img-pne.jpeg
 permalink: /pneumonia-image-recognition.html
 ---

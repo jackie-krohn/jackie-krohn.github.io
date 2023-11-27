@@ -5,7 +5,7 @@ tagline: Tableau Dashboard
 date: 2023-06-24
 categories: [Visualization]
 tags: [NBA, Basketball, Passion, Interactive, Dashboard]
-image: img-nba.jpeg
+image: img-nba.jpg
 permalink: /nba-dashboard.html
 ---
 
